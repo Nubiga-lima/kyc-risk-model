@@ -22,6 +22,7 @@ indicators, and transaction behaviour.
 
 ## Project Structure
 
+```text
 kyc-risk-model/
 │
 ├── notebooks/
@@ -41,6 +42,7 @@ kyc-risk-model/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## What This Project Covers
 
